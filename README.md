@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZhuohCun
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning coding with VUE+Springboot+MySQL(+PHP)
-- 📫 How to reach me: Email: zhuohcun@outlook.com
+- 📫 How to reach me: Email: zhuohcun@outlook.com   Wechat: zhouhcun
 
 <!---
 ZhuohCun/ZhuohCun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
