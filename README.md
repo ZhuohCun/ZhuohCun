@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZhuohCun
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Coding with VUE+Springboot+MySQL(+PHP)
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning coding with VUE+Springboot+MySQL(+PHP)
 - 📫 How to reach me: Email: zhuohcun@outlook.com
 
 <!---
