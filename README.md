@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ZhuohCun
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning coding with VUE+SpringBoot+MySQL(+PHP) & Japanese
-- 📫 How to reach me: Email: zhuohcun@outlook.com   Wechat: zhuohcun   Facebook(WhatsApp): Zhuohong Cun
+- 📫 How to reach me: Email: zhuohcun@gmail.com   Wechat: zhuohcun   Facebook(WhatsApp): Zhuohong Cun
