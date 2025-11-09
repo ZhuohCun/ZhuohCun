@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Zhuohong Cun (aka. Takuko Sun)
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning to code with VUE+SpringBoot+MySQL(+PHP) & Japanese
 - 📫 How to reach me: Email: zhuohcun@gmail.com   Wechat: zhuohcun   Facebook(WhatsApp): Zhuohong Cun
